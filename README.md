@@ -66,3 +66,10 @@ Block 2 – Root Directory Entry
 * Represents the base of the directory tree
 – Like C:\ on Windows
 Or / on Linux
+
+
+The code implements dbrowse function with the following working options: 
+* dir 
+* cd <dir>
+* read <file>
+* pwd
